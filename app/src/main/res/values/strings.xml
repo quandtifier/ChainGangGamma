@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">ChainGang</string>
-    <string name="txt_slogan">A hub for managing your complex processes.</string>
+    <string name="txt_slogan">A hub for managing\nyour complex processes.</string>
     <string name="txt_t_and_c">Terms and Conditions</string>
-
+    <string name="logo_description">Logo</string>
 
     <string name="btn_login">Login</string>
     <string name="btn_create_account">Create Account</string>
